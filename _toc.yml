@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Chapters
+    chapters:
+    - file: 00_contributing/readme
+    - file: imprint
