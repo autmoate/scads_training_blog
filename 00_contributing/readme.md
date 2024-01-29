@@ -69,3 +69,26 @@ Once you are sure everything is fine, enter a meaningful (!) commit message and 
 
 ![img_10.png](img_10.png)
 
+Upload your changes to github by clicking `Publish branch`:
+
+![img_11.png](img_11.png)
+
+And create a pull-request to let us know about your changes:
+
+![img_12.png](img_12.png)
+
+Describe your new contribution shortly and feel free to tag a collague to review your changes:
+
+![img_13.png](img_13.png)
+
+We will then review your changes and potentially ask for changes, e.g. like this:
+
+![img_14.png](img_14.png)
+
+Which you can then confirm by committing directly from the browser:
+
+![img_15.png](img_15.png)
+
+You can also add more text and images and submit them using github desktop:
+
+![img_16.png](img_16.png)
