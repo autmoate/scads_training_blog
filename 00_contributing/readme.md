@@ -1,7 +1,7 @@
 # How to contribute
 
 On this page we will explain how you can contribute a blog post to this resource. 
-Before we get started, make your you have a [github.com](https://github.com) account. 
+Before we get started, make soure you you have a [github.com](https://github.com) account. 
 We also recommend to install [Github desktop](https://desktop.github.com/) in particular if you are new to version control with git.
 
 ## Before creating a new blog post
