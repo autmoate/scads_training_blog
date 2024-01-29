@@ -92,3 +92,11 @@ Which you can then confirm by committing directly from the browser:
 You can also add more text and images and submit them using github desktop:
 
 ![img_16.png](img_16.png)
+
+After committing just make sure to upload your changes:
+
+![img_17.png](img_17.png)
+
+They will then show up in the browser:
+
+
