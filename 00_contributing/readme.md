@@ -44,10 +44,18 @@ Within your new folder create a `readme.md` Markdown file:
 
 ![img_5.png](img_5.png)
 
-You can also add screenshots by simply copy pasting them into the markdown file. 
+You can also add screenshots by simply copy-pasting them into the markdown file. 
 Pycharm will make sure the image file is saved in the same folder.
 
 ![img_6.png](img_6.png)
+
+Also make sure to add your new chapter and page to the `_toc.yml` file, so that it will be included in the table of contents:
+
+![img_19.png](img_19.png)
+
+Also add yourself to the list of authors in the copyright statement in the `_config.yml` file:
+
+![img_20.png](img_20.png)
 
 After you are done with editing, return to github desktop and create a new branch. 
 This is important, do not commit directly to the `main` branch.
