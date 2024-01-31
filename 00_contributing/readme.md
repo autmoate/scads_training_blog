@@ -99,5 +99,5 @@ After committing just make sure to upload your changes:
 
 After everything is done, we will merge your pull-request and your new blog post will be visible on the website:
 
-![img.png](img.png)
+![img.png](img_18.png)
 
