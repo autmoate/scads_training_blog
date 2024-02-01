@@ -6,7 +6,8 @@ root: intro
 
 parts:
   - caption: Cervical Cancer Classif.
-    chapters: Preprocessing
+    chapters:
+    - file: 03_cervical_cancer/readme
   - caption: Ollis Blogpost
     chapters:
     - file: 01_test_blogpost/readme
