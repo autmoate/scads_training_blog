@@ -5,9 +5,15 @@ format: jb-book
 root: intro
 
 parts:
+  - caption: Cervical Cancer Classif.
+    chapters:
+    - file: 03_cervical_cancer/readme
   - caption: Ollis Blogpost
     chapters:
     - file: 01_test_blogpost_olli/readme
+  - caption: BlogPostFL
+    chapters:
+    - file: 02_gs/readme
   - caption: Chapters
     chapters:
     - file: 00_contributing/readme
