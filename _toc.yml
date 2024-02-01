@@ -5,6 +5,9 @@ format: jb-book
 root: intro
 
 parts:
+  - caption: Ollis Blogpost
+    chapters:
+    - file: 01_test_blogpost/readme
   - caption: Chapters
     chapters:
     - file: 00_contributing/readme
