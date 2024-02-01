@@ -8,6 +8,9 @@ parts:
   - caption: Ollis Blogpost
     chapters:
     - file: 01_test_blogpost/readme
+  - caption: BlogPostFL
+    chapters:
+    - file: 02_gs/readme
   - caption: Chapters
     chapters:
     - file: 00_contributing/readme
